@@ -15,6 +15,7 @@ VIDEOS---------------This folder contains the videos made for the promotion of t
 # Versions
 ```
 Unity----------------------Version 2019.4.0f1
+C#-------------------------Version 6 (.NET Framework 4.6)
 ADOBE Premiere Pro CC------Version 2020 (14.3)
 ```
 
